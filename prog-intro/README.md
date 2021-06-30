@@ -1,0 +1,1 @@
+[**Условия домашних заданий**](http://www.kgeorgiy.info/courses/prog-intro/homeworks.html)
